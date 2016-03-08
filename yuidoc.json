@@ -1,0 +1,12 @@
+{
+  "name": "_PROJECT_NAME_",
+  "description": "_PROJECT_DESCRIPTION_",
+  "version": "0.0.0",
+  "url": "_REPO_URL_",
+  "options": {
+    "paths": "./src",
+    "outdir": "./docs/api",
+    "themedir": "./docs/themes/JustBI",
+    "helpers": ["./docs/themes/JustBI/helpers/helpers.js"]
+  }
+}
