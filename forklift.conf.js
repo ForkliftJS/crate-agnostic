@@ -14,6 +14,12 @@ module.exports = {
     // AFTER ALIAS:
     //   import $ from 'jquery';
     Qt: path.join('vendor', 'QtLib', 'MyQtLibrary.js')
-  }
+  },
+
+  // OPTIONS BELOW ARE NOT YET IMPLEMENTED
+  sourceFolder: './src',
+  distributionFolder: './dist',
+  mainModules: ['./src/main'],
+  mainTemplate: './src/index.html'
 };
 /* eslint-enable no-var */
