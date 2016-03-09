@@ -1,23 +1,22 @@
 {
-  "name": "AgnosticCrate",
-  "version": "0.0.1",
+  "name": "forkliftjs-crate-agnostic",
+  "version": "0.1.0",
   "description": "Framework agnostic crate for ForkliftJS",
-  "main": "src/index.html",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nvanmeurs/tooling-example-project.git"
+    "url": "git+https://github.com/forkliftjs/crate-agnostic.git"
   },
   "keywords": [
-    "tooling",
-    "example",
-    "project"
+    "forkliftjs",
+    "crate",
+    "agnostic"
   ],
   "author": "Nicky van Meurs <nicky.van.meurs@just-bi.nl>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nvanmeurs/tooling-example-project/issues"
+    "url": "https://github.com/forkliftjs/crate-agnostic/issues"
   },
-  "homepage": "https://github.com/nvanmeurs/tooling-example-project#readme",
+  "homepage": "https://github.com/forkliftjs/crate-agnostic#readme",
   "devDependencies": {
     "forkliftjs": "^0.1.4"
   }

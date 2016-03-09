@@ -2,7 +2,7 @@
 var path = require('path'); // eslint-disable-line no-unused-vars
 
 module.exports = {
-  crate: 'Agnostic',
+  crate: 'agnostic',
   vendorAliases: {
     // EXAMPLE:
     //   jquery: path.join('bower', 'jquery', 'dist', 'jquery.js'),
